@@ -11,3 +11,7 @@
 - insert your go bin path to the PATH
 - npm install -g neovim
 - brew install terraform-ls
+
+## Useful commands
+
+LspInfo - show the lsp servers running and current filetype;
